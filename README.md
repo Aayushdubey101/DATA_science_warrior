@@ -1,0 +1,2 @@
+# DATA_science_warrior
+Data Science Warrior is a complete, beginner-to-advanced roadmap covering Python, ML, DL, NLP, CV, Generative &amp; Agentic AI, SQL, Power BI, and more. Perfect for learners aiming to master data science through hands-on projects, real-world skills, and placement preparation. 🧠⚔️
