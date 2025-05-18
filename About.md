@@ -54,5 +54,5 @@ Master Data Science & AI with our structured curriculum:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/data-science-warrior.git
-   cd data-science-warrior
+   git clone https://github.com/Aayushdubey101/DATA_science_warrior.git
+   cd DATA_science_warrior
